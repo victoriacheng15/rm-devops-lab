@@ -11,12 +11,12 @@ This is a simple script to monitor the server's perfomance and display the resul
 - Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/victoriacheng15/rm-server-performance-stats.git
+git clone git@github.com:victoriacheng15/rm-devops-lab.git
 ```
 - Navigate to the directory:
 
 ```bash
-cd rm-server-performance-stats
+cd server-performance-stats
 ```
 - Make the script executable:
 
