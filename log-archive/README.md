@@ -2,7 +2,7 @@
 
 This is a simple Bash script to archive log files from a specified directory. The script compresses the logs into a .tar.gz file and saves it to a user-defined location (defaulting to the Desktop). It also includes validation to ensure the log directory exists and is readable.
 
-## Geting Started
+## Getting Started
 
 ### Prerequisites
 
