@@ -56,4 +56,4 @@ Functions in the Script:
   - Lists the top 5 processes consuming the most memory.
 
 ## Note
-This project is part of the DevOps project from [Roadmap](https://roadmap.sh/projects/server-stats).
+This project is a part of the DevOps projects. For more information, check out [roadmap.sh - DevOps Projects](https://roadmap.sh/projects/server-stats).
