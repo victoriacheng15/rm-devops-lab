@@ -67,4 +67,4 @@ The script performs the following steps:
 - If the archive directory does not exist, the script will create it automatically.
 - The script ensures the log directory is valid and accessible before proceeding with the archiving process.
 
-This project is a part of the DevOps projects. For more information, check out [roadmap.sh - DevOps Projects](https://roadmap.sh/projects/log-archive-tool).
+This project is a part of the DevOps projects from [roadmap.sh - DevOps Projects](https://roadmap.sh/projects/log-archive-tool).
